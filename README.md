@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+![WhatsApp Image 2024-03-01 at 20 16 08_aef56754](https://github.com/karuniya2005/Swapping-two-values/assets/161425769/81444fd0-f5fd-4178-ab46-b51cfaa8cdb6)
 
 
 
